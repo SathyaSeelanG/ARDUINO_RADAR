@@ -1,5 +1,5 @@
-# ARDUINO_RADAR_JAVA_processing
-Arduino Radar
+# ARDUINO_RADAR_processing
+
 Arduino Radar is a project that involves building a radar system using an Arduino microcontroller board. The system uses an ultrasonic sensor to transmit and receive signals and detect objects in its vicinity. The received signals are processed by the Arduino board, and the distance and position of objects are calculated. The system also features a servo motor that rotates the sensor to scan a 180-degree area. Detected objects are displayed on an LCD display.
 
 Features
